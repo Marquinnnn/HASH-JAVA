@@ -1,0 +1,16 @@
+Aluno: Marcus Vinícius Ribeiro | R.A.: 688487
+Disciplina: Segurança e Criptografia | Projeto 1
+
+Data: 29/11/2021 | Hora: 15:36:28
+------------------------------------------------------
+Diretório Absoluto: C:\ArquivosParaHash
+------------------------------------------------------
+Caminho {C:\ArquivosParaHash/imagem1.jpg}: HASH[013BE63619E43B517C31AE957D6A00D3]
+Caminho {C:\ArquivosParaHash/Poços/aguas termais.jpg}: HASH[1D67F73B9C7C87EC15DDE98488412FDC]
+Caminho {C:\ArquivosParaHash/Poços/Aguas Termais.txt}: HASH[F6EFFB235782D4B71DF7E468FB5357B1]
+Caminho {C:\ArquivosParaHash/Poços/Centro/Comida/Araujo.jpg}: HASH[7E954268A27D21E97706F0339DDFF0AA]
+Caminho {C:\ArquivosParaHash/Poços/Centro/Comida/Pizza.txt}: HASH[1D72A63291CAFD111E6BAB2A552E50CE]
+Caminho {C:\ArquivosParaHash/Poços/Centro/coreto.jpg}: HASH[66018BAF5CC0F26469A4DA8F622927FD]
+Caminho {C:\ArquivosParaHash/Poços/Centro/Coreto.txt}: HASH[F0BB02E5CBEAB27A6150404F51973459]
+Caminho {C:\ArquivosParaHash/video1.mp4}: HASH[A795E2D65EFD7D5917BD9DFF6DCE48D8]
+------------------------------------------------------
